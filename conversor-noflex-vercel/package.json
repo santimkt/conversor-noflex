@@ -1,8 +1,0 @@
-{
-  "name": "conversor-envios-noflex",
-  "version": "1.0.0",
-  "description": "Conversor de Orders Export a formato NoFlex",
-  "scripts": {
-    "start": "npx serve ."
-  }
-}
